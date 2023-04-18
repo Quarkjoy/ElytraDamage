@@ -1,0 +1,6 @@
+name: ElytraDamage
+version: '${project.version}'
+main: me.quarkjoy.elytradamage.ElytraDamage
+api-version: 1.19
+authors: [ Quarkjoy ]
+description: Forces elytras to take damage.
